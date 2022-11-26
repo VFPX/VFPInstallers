@@ -4,7 +4,7 @@ This repository contains installers for various components of Visual FoxPro (VFP
 
 ## VFP 9
 
-vfp9.iso is an ISO file created from the VFP 9 installation CD. To install VFP 9, download [vfp9.zip](http://vfpxrepository.com/files/vfp9.zip), unzip it, double-click vfp9.iso to open it in File Explorer, then run Setup.exe.
+vfp9.iso is an ISO file created from the VFP 9 installation CD. To install VFP 9, download [vfp9.zip](http://vfpxrepository.com/files/vfp9.zip), unzip it, double-click vfp9.iso to open it in File Explorer, then run Setup.exe. <a href="http://vfpxrepository.com/files/vfp9.zip">vfp9.zip</a>
 
 > Note: VFP 9 is not open source; you must have a license key to install it. This is provided as a convenience since most laptops no longer come with optical drives.
 
