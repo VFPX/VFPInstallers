@@ -31,9 +31,13 @@ Execute the file `VFP9_sp2.exe` to update the original release of VFP 9 to Servi
 
 The file `VFP9SP2_BugFixList.htm` lists the changes in SP2.
 
-###  Step 2: Upgrade VFP 9 SP2 to Hotfix 3 (the Latest Hotfix)
+### Step 2: Upgrade VFP 9 SP2 to Hotfix 3 (the Latest Hotfix)
 
 Execute `VFP90SP2-KB968409-ENU.exe` to extract files into a folder you will subsequently specify. Follow the instructions in the readme (in that folder) to copy the files to their correct locations.
+
+### Step 3: Install MS XML4
+
+Run MSXML.msi to install MS XML version 4, which is required by the Task Pane and the XMLAdapter class.
 
 ## Runtime Installers
 
